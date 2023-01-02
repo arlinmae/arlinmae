@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arlin.
-- 👀 I’m interested in QA.
+- 👀 I’m interested in software quality assurance testing.
 - 🌱 I’m currently learning HTML/CSS.
 - 📫 How to reach me ... 
 
