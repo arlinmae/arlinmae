@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arlin.
-- 👀 I’m interested in software quality assurance testing.
-- 🌱 I’m currently learning HTML/CSS and Cypress.
+- 👀 I’m interested in becoming a full-stack QA Engineer.
+- 🌱 I’m currently learning HTML/CSS, Cypress, Javascript and Ruby.
 
 <!---
 arlinmae/arlinmae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
